@@ -1,0 +1,10 @@
+APPLICATION.INI CheatSheet for your Zend Framework Application
+ 
+Collection of all available configuration options via Zend_Application
+and it's bootstrap resources.
+
+Should work with Zend Framework 1.11.11
+
+Use this file as application.ini in your applications config folder. Uncomment
+and set all options that your application needs. Alternatively use this file 
+as a cheatsheet and copy all needed options to your application.ini.
