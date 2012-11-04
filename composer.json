@@ -1,0 +1,6 @@
+{
+	"name": "feibeck/application.ini",
+	"description": "APPLICATION.INI CheatSheet for your Zend Framework 1 Application",
+	"type": "library",
+	"homepage": "https://github.com/feibeck/application.ini"
+}
